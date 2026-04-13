@@ -1,7 +1,7 @@
 # HLab Infra Base
 
 ## Objetivo
-- Detalhar as etapas de criação de um servidor laboratório caseiro Linux com Docker e backup automático
+- Montar um servidor laboratório caseiro Linux com Docker e backup automático
 - Criar Scripts para replicar estas configurações em outras maquinas
 
 ## Tecnologias usadas
