@@ -8,11 +8,12 @@
 - Ubuntu Server
 - UFW
 - Fail2Ban
-- Nginx
 - Docker
+  - Nginx
   - Pi-Hole
   - Grafana + Prometheus
 - rsync
+- Ansible
 
 ## Etapas realizadas
 1. Instalação do Ubuntu
