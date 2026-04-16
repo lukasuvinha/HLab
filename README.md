@@ -7,11 +7,13 @@
 ## Tecnologias usadas
 - Ubuntu Server
 - UFW
-- Fail2Ban
+- Tailscale
+- Fail2Ban (Em Analise)
 - Docker
+  - WireGuard (Em analise)
   - Nginx
   - CrowdSec
-  - Pi-Hole/ AdGuard
+  - Pi-Hole/ AdGuard (Em Analise)
   - Grafana + Prometheus
 - rsync
 - Ansible
